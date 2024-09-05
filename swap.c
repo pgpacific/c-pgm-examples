@@ -1,5 +1,4 @@
 //Simple swap code
-//(c) 2020 - 2024 EduScale - A Leap & Scale Enterprise
 
 #include <stdio.h>
 

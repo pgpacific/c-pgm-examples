@@ -1,4 +1,7 @@
-//Simple swap code
+// Simple swap code
+// Example programs by Prashant Joshi
+// prashant.joshi@leapscale.com
+// www.pgjoshi.com
 
 #include <stdio.h>
 

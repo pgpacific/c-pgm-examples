@@ -1,5 +1,7 @@
-//Simple swap code
-//(c) 2020 - 2024 EduScale - A Leap & Scale Enterprise
+// Simple swap code
+// Example programs by Prashant Joshi
+// prashant.joshi@leapscale.com
+// www.pgjoshi.com
 
 #include <stdio.h>
 

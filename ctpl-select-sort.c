@@ -1,3 +1,7 @@
+// Example programs by Prashant Joshi
+// prashant.joshi@leapscale.com
+// www.pgjoshi.com
+
 #include <stdio.h>
 
 int main() {

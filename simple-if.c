@@ -3,6 +3,8 @@
 int main() {
     int a = 100;
     int b = 100;
+    char x = 'y';
+    char y = 'n';
 
     // check if A is greater than B
     if (a > b) {
@@ -19,6 +21,11 @@ int main() {
     if (a==b){
         printf("A is equal to B");
          printf("\n");
+    }
+
+    if ( x > y) {
+         printf("X is greater than Y");
+        printf("\n");
     }
 
     return 0;
